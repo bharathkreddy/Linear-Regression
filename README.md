@@ -1,3 +1,8 @@
+# Advertising dataset
+This notebook is a step-by-step intro to get an intution around Linear Regression and steps to build a regression model.
+I explain how to interpreset coefficient of regression and metrics like R2 and RMSE intuitively and how to expand the model by adding complexities.
+
+
 # California Housing
 
 ## Source
