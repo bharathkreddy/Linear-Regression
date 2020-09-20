@@ -1,14 +1,25 @@
 # ML BOOTCAMP 
 # Week 4 LINEAR REGRESSION - THEORY
 
-[This notebook]() is a step-by-step intro to get an intution around Linear Regression and steps to build a regression model.
-I explain how to interpreset coefficient of regression and metrics like R2 and RMSE intuitively and how to expand the model by adding complexities.
+[This notebook](https://github.com/bharathkreddy/Linear-Regression/blob/master/BRK.ipynb) is a step-by-step intro to get an intution around Linear Regression and steps to build a regression model. I explain the below concept using data on money spent on advertising on 3 channels - TV, Radio and Newspaper and use these to predict sales of a product.
+ 1. Linear Regression Theory,
+ 2. Theory of behind curve fitting 
+ 3. Interpretation of coefficients of regression and intercept
+ 4. How to build a model using more features
+ 5. Adding interaction features.
+ 6. Measuring how good our model predictions are using RMSe and R2 statistic.
 
+# Week 5 LINEAR REGRESSION - PRACTICE
+[This notebook](https://github.com/bharathkreddy/Linear-Regression/blob/master/California%20prices.ipynb) is a step-by-step intro to get an intution around Linear Regression and steps to build a regression model.Dataset used is California Housing dataset. I explain the below concepts.
+1. How to frame a problem statement.
+2. Exploratory Data Analysis (univariate and bi-variate) 
+3. Missing value identification and treatment
+4. Outlier detection and treatment
+5. Preparing our data for ML algorithm by using automated processing pipelines.
 
+These form the building blocks for any Machine Learning and can be reused.
+Finally we predict housing prices by implimenting Linear Regression model we get a model score of 68%. We use statistics explained in week 4 (R2 , Fscore and RMSE to measure our algorithm performance)
 
-
-[This notebook]() is a step-by-step intro to get an intution around Linear Regression and steps to build a regression model.
-I explain how to interpreset coefficient of regression and metrics like R2 and RMSE intuitively and how to expand the model by adding complexities.
 
 ## Details about data source.
 ### California Housing
