@@ -1,6 +1,8 @@
 # ML BOOTCAMP [visit website to get full course](www.bharathkreddy.com)
 # Week 4 LINEAR REGRESSION - THEORY
 
+> [Visual explanation of OLS technique](https://bharathkreddy.github.io/Linear-Regression/)
+
 [This notebook](https://github.com/bharathkreddy/Linear-Regression/blob/master/BRK.ipynb) is a step-by-step intro to get an intution around Linear Regression and steps to build a regression model. I explain the below concept using data on money spent on advertising on 3 channels - TV, Radio and Newspaper and use these to predict sales of a product.
  1. Linear Regression Theory,
  2. Theory of behind curve fitting 
